@@ -1,4 +1,4 @@
-<h1>For Finding Mac Address of your ESP8266</h1>
+<h1>Find Mac Address of your ESP8266</h1>
 
 <h2>What is mac address?</h2>
 Media Access Control is referred to as <b>MAC</b>. <br>
